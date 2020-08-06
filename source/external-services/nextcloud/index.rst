@@ -99,7 +99,7 @@ Trage dort folgenden Wert ein:
 
 .. code::
 
-   sambaccountname
+   samaccountname
 
 Funktionstests
 ==============
